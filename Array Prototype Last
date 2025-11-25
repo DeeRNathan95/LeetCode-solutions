@@ -38,7 +38,8 @@ Array.prototype.last = function() {
  * const arr = [1, 2, 3];
  * arr.last(); // 3
  */
-
+==============================================
+Recap: Done, need to revisit and try to write the code alone by myself
 
 =================test case===========
 [null, {}, 3]
